@@ -19,3 +19,5 @@ const RecipeIndex = ({alphaIndex}) => {
     )
 }
 export default RecipeIndex;
+
+
