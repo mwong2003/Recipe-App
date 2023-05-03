@@ -1,3 +1,14 @@
+## Recipe App
+
+This webpage allows you to search for your favourite dishes and be able to make them with a set of ingredients and instructions. Some dishes include video tutorials. With an interactive search bar and index bar, find your recipes and start cooking!
+
+![Example1](https://i.imgur.com/U0NC8h4.png)
+![Example2](https://i.imgur.com/saaeRPw.png)
+![Example3](https://i.imgur.com/LhAj5ug.png)
+![Example4](https://i.imgur.com/GUNgQ01.png)
+![Example5](https://i.imgur.com/rpiygAX.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
